@@ -1,4 +1,21 @@
 {
+  "name": "npmmode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruzimurodov/npmvariables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruzimurodov/npmvariables/issues"
+  },
+  "homepage": "https://github.com/Ruzimurodov/npmvariables#readme",
   "dependencies": {
     "bootstrap": "^5.1.3"
   }
